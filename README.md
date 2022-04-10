@@ -1,5 +1,5 @@
 ## Customer-Analysis-using-Tableau
-**Data source file name: sales_06_FY2020-21**
+**Data source file name: sales_06_FY2020-21.csv**
 
 **Objectives**:
 
@@ -10,9 +10,10 @@
    - Revenue per State
    - Revenue based on Month of the Year
    - Revenue based on Age
-   - Quantity: Discount Percentage Correlation
-   - Percetage of Revenue per Year
-   - Revenue category per Gender
+   - Quantity: Discount Percentage Correlation - positive relation,if the discount percentage if high, customers likely to shop/order more in quantity.
+   - Percetage per Revenue per Region - Donut chart
+   - Revenue category per Gender - butterfly chart as the category is repeating for each gender
    - Build the dashboard
    
    
+Note: When both the rows and columns are in measure, we tend to chnage it both in Dimension to see the pattern
