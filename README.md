@@ -1,9 +1,9 @@
-## Customer-Analysis-using-Tableau
+## Customer Analysis on Super Store Sales Data in Tableau
 **Data source file name: sales_06_FY2020-21.csv**
 
 **Objectives**:
 
-1. Know who your audiences: Since I am doing customer analysis, the audience could be the marketi g team, reserach team or executive management team
+1. Know who your audiences: Since I am doing customer analysis, the audience could be the marketing team, reserach team or executive management team
 
 3. Customer Analysis: Descriptive
 
@@ -17,3 +17,6 @@
    
    
 Note: When both the rows and columns are in measure, we tend to chnage it both in Dimension to see the pattern
+
+
+[Link to Tableau Public](https://public.tableau.com/app/profile/nilakshi.roy/viz/CustomerAnalysisonSuperStoreSalesData/Dashboard1)
