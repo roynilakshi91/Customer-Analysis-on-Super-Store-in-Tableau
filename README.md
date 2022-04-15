@@ -1,4 +1,4 @@
-## Customer Analysis on Super Store Sales Data in Tableau
+## Customer Analysis on Super Store Sales Data in Tableau [Link to Tableau Public (https://public.tableau.com/app/profile/nilakshi.roy/viz/CustomerAnalysisonSuperStoreSalesData/Dashboard1)
 **Data source file name: sales_06_FY2020-21.csv**
 
 **Objectives**:
@@ -19,4 +19,4 @@
 Note: When both the rows and columns are in measure, we tend to chnage it both in Dimension to see the pattern
 
 
-[Link to Tableau Public](https://public.tableau.com/app/profile/nilakshi.roy/viz/CustomerAnalysisonSuperStoreSalesData/Dashboard1)
+
