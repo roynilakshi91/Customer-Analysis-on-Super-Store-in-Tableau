@@ -1,5 +1,7 @@
-## Customer Analysis on Super Store Sales Data in Tableau                 [Link to Tableau Public](https://public.tableau.com/app/profile/nilakshi.roy/viz/CustomerAnalysisonSuperStoreSalesData/Dashboard1)
-**Data source file name: sales_06_FY2020-21.csv**
+## Customer Analysis on Super Store Sales Data in Tableau   
+
+[Link to Tableau Public](https://public.tableau.com/app/profile/nilakshi.roy/viz/CustomerAnalysisonSuperStoreSalesData/Dashboard1)
+
 
 **Objectives**:
 
@@ -7,9 +9,9 @@
 
 3. Customer Analysis: Descriptive
 
-   - Revenue per State
-   - Revenue based on Month of the Year
-   - Revenue based on Age
+   - Revenue per State - Map view
+   - Revenue based on Month of the Year - Trend line
+   - Revenue based on Age - bar graph
    - Quantity: Discount Percentage Correlation - positive relation,if the discount percentage if high, customers likely to shop/order more in quantity.
    - Percetage per Revenue per Region - Donut chart
    - Revenue category per Gender - butterfly chart as the category is repeating for each gender
